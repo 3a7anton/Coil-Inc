@@ -1,3 +1,10 @@
+body {
+  background: url('https://imjustcreative.com/wp-content/uploads/2017/07/florian-7.gif') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .App {
   text-align: center;
 }
